@@ -1,4 +1,4 @@
-# Linear-Graph-plotter
+# Linear-Graph-plotter[![Download linearplotbyap](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/linearplotbyap/files/latest/download)
 **See project files [here](https://sourceforge.net/projects/linearplotbyap/)**
 ### it plots graph of form y=mx+c 
 **you'll just need to enter some data like slpoe and intercept,etc and plot will be ready..**
