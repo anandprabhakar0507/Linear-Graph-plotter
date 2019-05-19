@@ -1,5 +1,5 @@
 # Linear-Graph-plotter
-### it lots graph of form y=mx+c 
+### it plots graph of form y=mx+c 
 **you'll just need to enter some data like slpoe and intercept,etc and plot will be ready..**
 ##### see sample(v1.1) - CUI:
 ![](https://github.com/anandprabhakar0507/Linear-Graph-plotter/blob/master/plot1.1.gif)
