@@ -10,4 +10,4 @@
 ![](https://github.com/anandprabhakar0507/Linear-Graph-plotter/blob/master/plot1.2.gif)
 ### download it on [sourceforge ](https://sourceforge.net/projects/linearplotbyap/files/Linear%20Graph%20Plotter%28v1.2%29.exe/download)
 
-## and please dont forget to give feedback [](mailto:anandprabhakar0507@gmail.com)
+## and please dont forget to give feedback [anandprabhakar0507@gmail.com](mailto:anandprabhakar0507@gmail.com)
